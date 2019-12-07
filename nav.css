@@ -1,6 +1,6 @@
 * {
   padding: 0;
-  margin: 0; }
+  margin: 10px; }
 
 li {
   list-style: none; }
@@ -10,6 +10,6 @@ a {
 
 li {
   list-style: none;
-  background-color: red; }
+  background-color:blue; }
 
 /*# sourceMappingURL=nav.css.map */
