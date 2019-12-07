@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+li {
+  list-style: none; }
+
+a {
+  color: inherit; }
+
+li {
+  list-style: none;
+  background-color: red; }
+
+/*# sourceMappingURL=nav.css.map */
