@@ -1,15 +1,30 @@
 * {
-  padding: 0;
-  margin: 10px; }
+    padding: 0;
+    margin: 10px;
+}
+
+
 /* 这是第二版css */
+
 li {
-  list-style: none; }
+    list-style: none;
+}
 
 a {
-  color: inherit; }
+    color: inherit;
+}
 
 li {
-  list-style: none;
-  background-color:blue; }
+    list-style: none;
+    background-color: blue;
+}
+
+
+/* 增加的版本 */
+
+body {
+    color: aquamarine;
+}
+
 
 /*# sourceMappingURL=nav.css.map */
